@@ -24,6 +24,8 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 | Originality | 3 | Concept is quite similar to some samples |
 | Overall Impression | 4 | The program or app runs smoothly without noticeable bugs or errors. |
 
+- total of 18/24
+
 
 # Video Presentation (Demo)
 
