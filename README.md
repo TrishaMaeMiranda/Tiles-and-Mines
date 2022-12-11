@@ -5,3 +5,5 @@
 
 
 Mechanics 1: Understand the principles behind Tiles and Mines. Each Tiles and Mines game starts out with a grid of unmarked squares. 
+Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool that you'll need to play Tiles and Mines. The left mouse button is used to click squares that don't contain mines, while the right mouse button is used to flag squares that contain mines.
+-On higher difficulties, you'll need to mark squares that you suspect contain mines until you can verify that they do contain mines.
