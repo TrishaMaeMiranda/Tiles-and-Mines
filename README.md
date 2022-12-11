@@ -9,7 +9,7 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 
 - On higher difficulties, you'll need to mark squares that you suspect contain mines until you can verify that they do contain mines
 
-#UML - Unified Modeling Language
+# UML - Unified Modeling Language
 
 # To run: 
 - Open the main.py file to start the runtime of the program.
