@@ -21,7 +21,7 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 | Maintainablity  | 3 | The program's structure is based on OOP principles. Codes are readable, understandble, aiding to its maintainability |
 | Scalability | 2 | The program is very difficult to scale. |
 | Execution | 3 | The program works completely as intended and declared. Errors are handled properly |
-| Originality | 3 | |
+| Originality | 3 | Concept is quite similar to some samples |
 | Overall Impression | 4 | The program or app runs smoothly without noticeable bugs or errors. |
 
 
