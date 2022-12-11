@@ -14,6 +14,16 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 # To run: 
 - Open the main.py file to start the runtime of the program.
 
+# Self-Assessment
+| Metric        | Score           | Description |
+| :-----------: |:-------------:| :----:|
+| Code Reusablity | 3 | Implemented the DRY method in an acceptable manner. |
+| Maintainablity  | 3 | The program's structure is based on OOP principles. Codes are readable, understandble, aiding to its maintainability |
+| Scalability | 3 |  |
+| Execution | 3 |  |
+| Originality | 3 | |
+| Overall Impression | 4 | The program or app runs smoothly without noticeable bugs or errors. |
+
 
 # Video Presentation (Demo)
 
