@@ -52,7 +52,7 @@ class Cell:
             if Cell.cell_count == settings.MINES_COUNT:
                 ctypes.windll.user32.MessageBoxW(0, 'Congratulations! You won the game!', 'Game Over', 0)
 
-        # Cancel Left and Right click events if cell is already opened:
+   
         self.cell_btn_object.unbind('<Button-1>')
         self.cell_btn_object.unbind('<Button-3>')
 
@@ -89,8 +89,7 @@ class Cell:
     def show_cell(self):
         if not self.is_opened:
             Cell.cell_count -= 1
-            self.cell_btn_object.configure(text=self.surrounded_cells_mines_length)
-            # Replace the text of cell count label with the newer count
+            self.cell_btn_object.configure(text=self.surrounded_cells_mines_length
             if Cell.cell_count_label_object:
                 Cell.cell_count_label_object.configure(
                     text=f"Cells Left:{Cell.cell_count}"
@@ -101,7 +100,6 @@ class Cell:
                 bg='SystemButtonFace'
             )
 
-        # Mark the cell as opened (Use is as the last line of this method)
         self.is_opened = True
 
     def show_mine(self):
