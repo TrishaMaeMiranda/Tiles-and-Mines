@@ -19,8 +19,8 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 | :-----------: |:-------------:| :----:|
 | Code Reusablity | 3 | Implemented the DRY method in an acceptable manner. |
 | Maintainablity  | 3 | The program's structure is based on OOP principles. Codes are readable, understandble, aiding to its maintainability |
-| Scalability | 3 |  |
-| Execution | 3 |  |
+| Scalability | 2 | The program is very difficult to scale. |
+| Execution | 3 | The program works completely as intended and declared. Errors are handled properly |
 | Originality | 3 | |
 | Overall Impression | 4 | The program or app runs smoothly without noticeable bugs or errors. |
 
