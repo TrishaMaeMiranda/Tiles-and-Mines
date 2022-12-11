@@ -21,10 +21,10 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 - Section: IT - 2103
 
 # Customized Module
--main
--cell
--settings
--utils
+- main
+- cell
+- settings
+- utils
 
 # Python-Final-Project-IT---2103
 
