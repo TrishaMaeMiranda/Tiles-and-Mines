@@ -14,6 +14,9 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 # To run: 
 - Open the main.py file to start the runtime of the program.
 
+
+# Video Presentation (Demo)
+
 # Creators of this project:
 - KATRINA CYRELL MAY M. BOBADILLA
 - TRISHA MAE B. MIRANDA
