@@ -28,6 +28,8 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 
 
 # Video Presentation (Demo)
+<a href="https://www.youtube.com/watch?v=L5Z0vDUtTqM" target="_blank"><p align = "center"><img src="https://github.com/Zoall/Python-Final-Project-IT---2101/blob/main/img/hqdefault.jpg" 
+                                                                                               alt="Presentation Vid" width="500" height="300" border="10" /></p></a>
 
 # Creators of this project:
 - KATRINA CYRELL MAY M. BOBADILLA
