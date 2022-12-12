@@ -37,6 +37,9 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 # Video Presentation (Demo)
 https://www.youtube.com/watch?v=AvoMtrkmHac
 
+<a href="https://youtu.be/AvoMtrkmHac" target="_blank"><p align = "center"><img src="https://github.com/TrishaMaeMiranda/Tiles-and-Mines/commit/e3e5fdc366977691f94750192ca2178133e26248" 
+                                                                                               alt="Presentation Vid" width="500" height="300" border="10" /></p></a>
+
 # Creators of this project:
 - KATRINA CYRELL MAY M. BOBADILLA
 - TRISHA MAE B. MIRANDA
