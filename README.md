@@ -13,6 +13,49 @@ Mechanics 2: Use the mouse's left and right buttons. The mouse is the only tool 
 
 [https://drive.google.com/file/d/1DaKIhle3Hhu40wW4m1tIULpLCwAAVphI/view?usp=sharing](https://drive.google.com/drive/folders/1CN39ycwqPVWcjaVLFU-0mPSLQNb4Xr6Z?usp=sharing)
 
+Main (Class)
+----------------------------
++ main()
+
+
+[Main → Cell] (Association)
+Cell (Class)
+----------------------------
++ all
++ cell count
++ cell count label object
++ + is_mine = is_mine
++ +is_opened = False
++ +is_mine_candidate = False
++ +cell_btn_object = None
++ + x = x
++ + y = y
++ + <<property>> surrounded_cells 
++ + <<property>>surrounded_cells_mines_lenght 
++ +<<create>> Cell()
++ +create_btn_object (location)
++ +create_cell_count_label(location)
++ +left_click_actions(event)
++ + get_cell_by_axis(x,y)
++ +show_cell()
++ +show_mine()
++ +right_click_actions_(event)
++ +randomize_mines()
++ +_repr_()
+
+
+[ → Cell] (Association)
+mines (Class)
+----------------------------
++ + def show_mine(self):
++ +self.cell_btn_object.configure(bg='red')
++  +ctypes.windll.user32.MessageBoxW(0, 'You clicked on a mine', 'Game Over', 0)
+
+
+![image](https://user-images.githubusercontent.com/118491145/206996877-90bf0c95-d974-455c-b9b4-d435cfc139ee.png)
+
+
+
 # To run: 
 - Open the main.py file to start the runtime of the program.
 
