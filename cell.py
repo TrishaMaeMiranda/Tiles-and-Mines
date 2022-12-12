@@ -89,7 +89,7 @@ class Cell:
     def show_cell(self):
         if not self.is_opened:
             Cell.cell_count -= 1
-            self.cell_btn_object.configure(text=self.surrounded_cells_mines_length
+            self.cell_btn_object.configuretext=self.surrounded_cells_mines_length
             if Cell.cell_count_label_object:
                 Cell.cell_count_label_object.configure(
                     text=f"Cells Left:{Cell.cell_count}"
